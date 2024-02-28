@@ -1,14 +1,16 @@
-bod-1
+<body>
    {
      background-color : blue;
    }
-p
+<p>
  {
    color:green;
    text-align;
  }
+</p>
 <h1>
     {
       color:red;
     }
 </h1>
+</body>
